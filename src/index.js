@@ -25,7 +25,7 @@ class App extends React.Component {
                   Header: "Unique ID",
                   accessor: "id"
                 },
-
+ 
                 {
                   Header: "Make",
                   accessor: "make_id"
@@ -107,7 +107,7 @@ class App extends React.Component {
         />
         <br />
         <Tips />
-        <Logo />
+        
       </div>
     );
   }

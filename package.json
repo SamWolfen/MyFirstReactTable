@@ -1,7 +1,7 @@
 {
   "name": "react-table-simple-table",
   "version": "0.0.67",
-  "description": null,
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
   "keywords": [
     "react",
     "react-table",
@@ -11,10 +11,10 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "react-table": "6.7.0-alpha-0",
+    "namor": "1.0.1",
+    "react": "^15.5.3",
     "react-dom": "15.5.3",
-    "react": "15.5.3",
-    "namor": "1.0.1"
+    "react-table": "6.7.0-alpha-0"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
@@ -24,5 +24,15 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamWolfen/MyFirstReactTable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamWolfen/MyFirstReactTable/issues"
+  },
+  "homepage": "https://github.com/SamWolfen/MyFirstReactTable#readme"
 }
